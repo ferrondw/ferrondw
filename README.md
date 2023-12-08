@@ -1,7 +1,7 @@
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+I'm+Ferron." alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate game developer from the Netherlands.</h3>
 
-- 🔭 I’m currently working on **Fever Dream**, a platformer where you can't jump.
+- 🔭 I’m currently working on [Fever Dream](https://play.google.com/store/apps/details?id=game.Yakanashe.FeverDream), a platformer where you can't jump.
 
 - 📫 Questions? Send an e-mail to **yakanashe@gmail.com**
 
