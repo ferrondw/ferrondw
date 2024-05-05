@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate game developer from the Netherlands.</h3>
 
-<h2 align="center" style="color: green;">Links About Me</h3>
+<h2 align="center">Links About Me</h3>
 <p align="center">
 <a href="https://discord.gg/6FwTHR3qpn" target="blank"><img align="center" src="https://github.com/ferrondw/ferrondw/assets/145978195/2a89bdcd-0f15-435a-b7c8-d97c1ac30ef6" height="40" width="40" /></a>
 <a href="https://play.google.com/store/apps/developer?id=Yakanashe" target="blank"><img align="center" src="https://github.com/ferrondw/ferrondw/assets/145978195/b64db99d-1712-4d42-ba8f-13d9ab2020ac" height="40" width="40" /></a>
@@ -12,7 +12,7 @@
 <a href="https://37308.hosts2.ma-cloud.nl/p2/" target="blank"><img align="center" src="https://github.com/ferrondw/ferrondw/assets/145978195/ba7fc32c-b611-4a57-8f46-857f66388f75" height="40" width="40" /></a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center">Languages And Tools</h3>
 <p align="center">
@@ -25,7 +25,8 @@
 <img alt="Git" align="center" src="https://github.com/ferrondw/ferrondw/assets/145978195/bfdb4c72-cbca-42c2-87bc-5bad9858960b" height="40" width="40" />
 </p>
 
-<h2 align="center">Statistics:</h3>
+<br>
 
+<h2 align="center">Statistics:</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ferrondw&label=Profile%20views&color=0e75b6&style=flat" alt="ferrondw" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ferrondw&theme=dark#gh-dark-mode-only&show_icons=true&locale=en" alt="ferrondw" /></p>
