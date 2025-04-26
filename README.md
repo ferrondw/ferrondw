@@ -4,7 +4,6 @@
 <h2 align="center">Links About Me</h3>
 <p align="center">
 <a href="https://discord.gg/6FwTHR3qpn" target="blank"><img align="center" src="https://ferrondewitte.com/assets/icons/discord.png" height="40" width="40" /></a>
-<a href="https://play.google.com/store/apps/developer?id=Yakanashe" target="blank"><img align="center" src="https://ferrondewitte.com/assets/icons/playstore.png" height="40" width="40" /></a>
 <a href="https://yakanashe.itch.io/" target="blank"><img align="center" src="https://ferrondewitte.com/assets/icons/itch.png" height="40" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCIhnRc0IVlZXscjgm_14iiQ" target="blank"><img align="center" src="https://ferrondewitte.com/assets/icons/youtube.png" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/ferrondewitte/" target="blank"><img align="center" src="https://ferrondewitte.com/assets/icons/linkedin.png" height="40" width="40" /></a>
